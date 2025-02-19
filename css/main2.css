@@ -1,0 +1,17 @@
+
+.conteudo_pri .conteudo-2{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+    margin-top: 180px;
+    margin-bottom: 150px;
+    cursor: pointer;
+}
+
+.conteudo_pri .conteudo-2 img{
+    width: 100%;
+}
+
