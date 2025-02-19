@@ -1,0 +1,41 @@
+
+.conteudo_pri{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteudo_pri .conteudo-1{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 100px;
+    margin-top: 180px;
+    margin-bottom: 150px;
+    gap: 20px;
+}
+
+.conteudo_pri .conteudo-1 h1{
+    color: #222A2E;
+}
+
+.conteudo_pri .conteudo-1 p{
+    color: #222A2E;
+}
+
+.conteudo_pri .conteudo-1 button{
+    background-color: #EA1D2C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.conteudo_pri .conteudo-1 button:hover{
+    background-color: #222A2E;
+    transition: all ease-in-out 0.5s;
+}
